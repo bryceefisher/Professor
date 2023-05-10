@@ -1,0 +1,15 @@
+/Users/bryce/RiderProjects/Professor/Professor/bin/Debug/net6.0/Professor
+/Users/bryce/RiderProjects/Professor/Professor/bin/Debug/net6.0/Professor.deps.json
+/Users/bryce/RiderProjects/Professor/Professor/bin/Debug/net6.0/Professor.runtimeconfig.json
+/Users/bryce/RiderProjects/Professor/Professor/bin/Debug/net6.0/Professor.dll
+/Users/bryce/RiderProjects/Professor/Professor/bin/Debug/net6.0/Professor.pdb
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/Professor.csproj.AssemblyReference.cache
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/Professor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/Professor.AssemblyInfoInputs.cache
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/Professor.AssemblyInfo.cs
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/Professor.csproj.CoreCompileInputs.cache
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/Professor.dll
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/refint/Professor.dll
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/Professor.pdb
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/Professor.genruntimeconfig.cache
+/Users/bryce/RiderProjects/Professor/Professor/obj/Debug/net6.0/ref/Professor.dll
